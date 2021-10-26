@@ -85,7 +85,7 @@ seo:
   title: Chris Espinosa - Creador de Contenido Digital y Fotógrafo
   extra:
     - name: 'og:type'
-      value: website
+      value: Sitio Web
       keyName: property
     - name: 'og:title'
       value: Chris en Facebook
