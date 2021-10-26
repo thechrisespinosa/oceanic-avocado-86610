@@ -102,7 +102,7 @@ seo:
     - name: 'twitter:title'
       value: '@_ChrisEspinosa'
     - name: 'twitter:description'
-      value: The preview of the Exto theme
+      value: Encuéntrame en Twitter
     - name: 'twitter:image'
       value: images/exto_preview.png
       relativeUrl: true
