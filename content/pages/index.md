@@ -91,7 +91,7 @@ seo:
       value: Chris en Facebook
       keyName: property
     - name: 'og:description'
-      value: The preview of the Exto theme
+      value: Encuéntrame en Facebook
       keyName: property
     - name: 'og:image'
       value: images/exto_preview.png
