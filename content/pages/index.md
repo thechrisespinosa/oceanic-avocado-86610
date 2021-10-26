@@ -83,7 +83,6 @@ sections:
         style: button
 seo:
   title: Chris Espinosa - Creador de Contenido Digital y Fotógrafo
-  description: The preview of the Exto theme
   extra:
     - name: 'og:type'
       value: website
